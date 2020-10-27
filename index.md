@@ -1,20 +1,20 @@
 index page
 
-# my title
+# Dave's first website
 
-write stuff
+This is my first website
 
 here is a list
 
-- item 1
-- item 2
-    - item x
+- Dog
+- Cat
+    - Kitten
 
 here table
 
 column 1 | column 2
 ---|---:
-cell 1 | cell 2
+Dog 1   | cat 2
 cell 3 | cell 4
 
 [here is my link text(https://github.com/join/get-started)
