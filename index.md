@@ -17,7 +17,7 @@ column 1 | column 2
 Dog 1   | cat 2
 cell 3 | cell 4
 
-[here is my link text(https://github.com/join/get-started)
+[here is my link text(https://github.com/join/get-started)]
 
 ![text here](https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/dogs_1280p_0.jpg?itok=cnRk0HYq)
 
